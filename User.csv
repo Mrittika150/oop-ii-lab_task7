@@ -1,0 +1,5 @@
+UserID,Username,Email,Password,UserType
+5,regularuser,regularuser@example.com,password123,0
+2,newadminuser,newadminuser@example.com,password789,2
+1,newregularuser,newregularuser@example.com,password456,0
+4,poweruser,poweruser@example.com,password456,1
